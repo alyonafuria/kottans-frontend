@@ -5,5 +5,5 @@ Version Control with Git
 ![alt text](assets\images\Opera Snapshot_2020-10-24_161008_classroom.udacity.com.png)
 Learn Git Branching
 ![alt text](assets\images\Screenshot_6.png)
-![alt text](assets\images\Screenshot_5.png)
+![alt text](assets/images/Screenshot_5.png)
 
