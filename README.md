@@ -24,3 +24,12 @@ Almost everything was new for me in this module, so it was nice to find familiar
 ![alt text](assets/images/task_git_collaboration/3_3.png)
 
 It was pretty hard to learn some concepts, but I hope in practice many things will be understood better, especially the rebase thing. For now I will be careful.
+
+## Intro to HTML and CSS
+### Intro to HTML and CSS
+![alt text](assets/images/task_html_css_intro/4_1.png)
+### Learn HTML(Eng), Learn CSS(Eng)
+![alt text](assets/images/task_html_css_intro/4_2.png)
+
+I knew some basics about html and css but definitely not all that was covered in these courses.It was interesting to learn about semantics of html, sections and articles.
+I was pleasantly surprised to see familiar terms from motion design (ease in, ease out etc) and I will definitely use it pretty often as it makes any animation looks analogous :). I wonder and will read later if it's possible to change the graph of this function similarly as in After Effects. Can't wait to test new knowledge in practice.
