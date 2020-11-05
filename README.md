@@ -33,3 +33,11 @@ It was pretty hard to learn some concepts, but I hope in practice many things wi
 
 I knew some basics about html and css but definitely not all that was covered in these courses.It was interesting to learn about semantics of html, sections and articles.
 I was pleasantly surprised to see familiar terms from motion design (ease in, ease out etc) and I will definitely use it pretty often as it makes any animation looks analogous :). I wonder and will read later if it's possible to change the graph of this function similarly as in After Effects. Can't wait to test new knowledge in practice.
+
+## Responsive Web Design
+### Responsive Web Design Fundamentals
+![alt text](assets/images/task_responsive_web_design/5_1.png)
+### Flexbox Froggy
+![alt text](assets/images/task_responsive_web_design/5_2.png)
+
+It was a very useful part and I learned a lot of new things like the approach of building from small to big, making space for links at least 48x48 for mobile, adding a media quiery @media to several breakpoints and how to approach breakpoints in general.
