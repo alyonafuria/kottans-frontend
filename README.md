@@ -41,3 +41,8 @@ I was pleasantly surprised to see familiar terms from motion design (ease in, ea
 ![alt text](assets/images/task_responsive_web_design/5_2.png)
 
 It was a very useful part and I learned a lot of new things like the approach of building from small to big, making space for links at least 48x48 for mobile, adding a media quiery @media to several breakpoints and how to approach breakpoints in general.
+
+## Hooli-style Popup
+I thought I would die doing this practice but looks like I finally finished it! There are still many things I need to know though, but its a good start.
+
+[DEMO](https://alyonafuria.github.io/popup/)
